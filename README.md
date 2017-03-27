@@ -1,4 +1,4 @@
-# FormulaInterpret-.Net  
+# FormulaInterpret-.Net Core  
 **Interpret a plain text formula, pass variables, then get result.  
 So you can store formula in database or file, and pass variables during runtime.**  
 
