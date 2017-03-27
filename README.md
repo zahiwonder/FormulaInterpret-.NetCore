@@ -1,4 +1,4 @@
-# FormulaInterpret-.Net Core  
+# FormulaInterpret .Net Core  
 **Interpret a plain text formula, pass variables, then get result.  
 So you can store formula in database or file, and pass variables during runtime.**  
 
@@ -19,3 +19,6 @@ variableCollection.put("Var1","10");
 variableCollection.put("Var2","20");  
 Float resultFloat=formula.resultAsFloat(variableCollection);  //get float result  
 Integer resultInteger=formula.resultAsInteger(variableCollection);  //get integer result  
+
+**Other version**  
+Java:https://github.com/FadeOrigin/FormulaInterpret-Java
