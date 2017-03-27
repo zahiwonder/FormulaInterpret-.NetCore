@@ -12,7 +12,7 @@ Use a four variables and two constants formula to test, run on I7 6600U.
 Construct costs 6.6s for one million times.  
 Pass Variables and get float result costs 3.4s for one million times.  
 
-**Sample Code:**  
+**Sample code:**  
 Formula formula=new Formula("Var1+(Var2+1)\*5"); //instantialize a formula object  
 HashMap<String,String> variableCollection=new HashMap<String,String>(); //create a variable name-value Map  
 variableCollection.put("Var1","10");  
